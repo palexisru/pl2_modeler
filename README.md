@@ -2,7 +2,7 @@
 Signs collection for rectange
 
 ## Groups:  
-fractals - /  
+fractals - $    
 energy - ~  
 information - #  
 static system - *  
