@@ -7,6 +7,6 @@ static system - *
 dinamic system - @  
 synergetic system - &  
 office system - $  
-ecology system - ^  
-cosmic system - ?  
+ecology system - !  
+cosmic system - ^  
 
