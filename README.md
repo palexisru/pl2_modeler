@@ -3,12 +3,12 @@ Signs collection for rectange
 
 ## Groups:  
 fractals - /  
-energy - %  
+energy - ~  
 information - #  
 static system - *  
 dinamic system - @  
 synergetic system - &  
-office system - $  
+office system - %  
 ecology system - !  
 cosmic system - ^  
 
