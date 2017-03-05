@@ -12,9 +12,9 @@ ecology system - !
 cosmic system - ^  
 
 ## Periods:
-preparation - -
-development - +
-stabilisation - =
+preparation - -  
+development - +  
+stabilisation - =  
 
 ## Demming phases:
 Act - ]  
