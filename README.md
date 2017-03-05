@@ -1,6 +1,7 @@
 # pl2_modeler
 Signs collection for rectange
 
+## Groups:  
 energy - %  
 information - #  
 static system - *  
@@ -10,3 +11,13 @@ office system - $
 ecology system - !  
 cosmic system - ^  
 
+## Periods:
+preparation - -
+development - +
+stabilisation - =
+
+## Demming phases:
+Act - ]  
+Plan - }  
+Do - >  
+Check - )  
