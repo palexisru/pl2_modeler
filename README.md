@@ -16,7 +16,7 @@ preparation - -
 development - +  
 stabilisation - =  
 
-## Demming phases:
+## Deming phases:
 Act - ]  
 Plan - }  
 Do - >  
