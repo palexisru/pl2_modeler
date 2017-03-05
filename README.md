@@ -13,7 +13,7 @@ ecology system - !
 cosmic system - ^  
 
 ## Periods:
-preparation - -  
+preparation - _  
 development - +  
 stabilisation - =  
 
