@@ -1,2 +1,12 @@
 # pl2_modeler
-Sign collection for rectange
+Signs collection for rectange
+
+energy - %  
+information - #  
+static system - *  
+dinamic system - @  
+synergetic system - &  
+office system - $  
+ecology system - ^  
+cosmic system - ?  
+
